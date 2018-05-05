@@ -1,0 +1,10 @@
+1)http://www.xdsl.ru/articles/adsl.htm 		- adsl
+2)http://www.rus.dynamix.ua/prod/vdsl_tech.htm	- vdsl
+3)http://www.rus.dynamix.ua/faq/shdsl/faq.htm	- shdsl
+4)http://tvoi-setevichok.ru/korporativnaya-set/vpn-podklyuchenie-chto-eto-takoe-i-dlya-chego-nuzhen-vpn-kanal.html 	- VPN
+5)https://en.wikipedia.org/wiki/Twisted_pair - twisted pair
+
+
+
+
+5)https://safezone.cc/threads/texnologii-postroenija-lokalnyx-setej.22849/	- Ethernet
