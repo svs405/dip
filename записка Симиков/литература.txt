@@ -4,6 +4,11 @@
 4)http://tvoi-setevichok.ru/korporativnaya-set/vpn-podklyuchenie-chto-eto-takoe-i-dlya-chego-nuzhen-vpn-kanal.html 	- VPN
 5)https://en.wikipedia.org/wiki/Twisted_pair - twisted pair
 
+7)https://www.cisco.com/c/dam/global/ru_ru/assets/pdfs/passport_catalyst_2960_r_plus.pdf CISCO
+
+8)https://www.mkts.by/struktura.html - структура мктс
+
+9)http://www.proliant.ru/catalog/servers/BL/hp_bladesystem_c7000.html - блейд сервер
 
 
 
